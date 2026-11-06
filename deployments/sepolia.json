@@ -1,0 +1,7 @@
+{
+  "chainId": 11155111,
+  "contract": "0xc034A1C95701bc6701110FE392a0ADb61244ac4C",
+  "deploymentTx": "0xb63a1aeb38d31313d269f45f079d6a9a2f718cbc401e4b0568a3393a845a35c4",
+  "legacyPlayerPaysContract": "0xB01808b1aa482978C0D8Bb4BBAD04653943319eE",
+  "keeper": "0xC4a843ddF533540474FDDb7a9a03342348f6742B"
+}
