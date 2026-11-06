@@ -1,5 +1,7 @@
 # Squeek Relay
 
+squeekchain-project: 645a5272-0b43-4f3f-9707-9f002456afea
+
 An interactive Squeekchain game concept for the Genesis build board.
 
 The app is a buildless static site in `dist/index.html`. It polls `https://api.squeekchain.com/v1/status` every five seconds and derives the game state from the public measurement fields: a relay opens only when the wheel reports fresh movement, and closes when the API reports idle. If telemetry is stale or unavailable, actions are disabled rather than simulated.
