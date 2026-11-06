@@ -1,0 +1,3 @@
+node_modules/
+worker/index.js
+dist/
