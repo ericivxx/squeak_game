@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+.aws/
+.codex/
+.agents/
+.sites-checkout/
+out/
+cache/
+lib/
+relayer-site/node_modules/
+relayer-site/.git/
+relayer-site/worker/index.js
+relayer-site/dist/
+*.log
