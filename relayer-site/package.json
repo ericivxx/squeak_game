@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "esbuild worker/source.js --bundle --format=esm --platform=browser --external:ws --outfile=worker/index.js"
+  },
+  "dependencies": { "ethers": "^6.15.0" },
+  "devDependencies": { "esbuild": "^0.25.0" }
+}
